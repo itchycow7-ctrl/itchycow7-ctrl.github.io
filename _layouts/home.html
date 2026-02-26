@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Posts</h1>
+
+  {% assign pinned = site.posts | where: "pin", true %}
+  {% assign normal = site.posts | where_exp: "post", "post.pin != true" %}
+  {% assign ordered_posts = pinned | concat: normal %}
+
+  <ul class="post-list">
+    {% for post in ordered_posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+        {% if post.pin %}📌 {% endif %}
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
