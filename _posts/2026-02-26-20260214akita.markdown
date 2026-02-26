@@ -12,6 +12,7 @@ categories: blog
 この日はちょうどバレンタインデーだったから、機内でチョコレートをもらったよ。
 
 ![機内でもらったバレンタインチョコ](/assets/images/20260214-1.jpg)
+<img src="/assets/images/20260214-1.jpg" alt="機内でもらったバレンタインチョコ" width="600">
 
 
 
