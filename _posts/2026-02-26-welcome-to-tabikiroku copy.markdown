@@ -16,11 +16,13 @@ categories: jekyll update
 それでは、行ってらっしゃい！
 
 
-  
 
-  
+<br>
+<br>
+<br>
 国内旅行の記録を残したい！っていう人は、行ったことがある日本の市区町村を記録できるWEBサイトを作ったから使ってみてね。<br>
-サイトを更に便利にするためのアドバイスも募集してるよ！<br>
+サイトを更に便利にするためのアドバイスも募集してるよ！
+
  [行ったことある市区町村][shikuchouson] 
 
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
