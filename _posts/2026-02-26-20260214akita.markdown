@@ -2,7 +2,7 @@
 layout: post
 title:  "秋田県　横手のかまくら/湯沢市犬っこまつり　2026"
 date:   2026-02-26 16:30:00 +0900
-categories: jekyll update
+categories: blog
 ---
 今回ご紹介するのは、2026年2月に開催された<br>
 ・横手のかまくら<br>
