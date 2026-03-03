@@ -3,13 +3,21 @@
 
     <div style="text-align: center; padding: 16px 0;">
       <a href="{{ "/" | relative_url }}">
-        <img
-          src="{{ "/assets/images/logo.png" | relative_url }}"
-          alt="{{ site.title }}"
-          height="150px"
-        >
+        <img src="{{ "/assets/images/logo.png" | relative_url }}" height="150px" alt="{{ site.title }}">
       </a>
     </div>
+
+    {% if site.description %}
+    <div style="text-align: center; font-size: 0.9rem; color: #555; padding-bottom: 8px;">
+      {{ site.description | escape }}
+    </div>
+    {% endif %}
+
+    {% if site.email %}
+    <div style="text-align: center; font-size: 0.85rem; color: #888; padding-bottom: 8px;">
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+    {% endif %}
 
     <div style="text-align: center; font-size: 0.85rem; color: #888; padding-bottom: 12px;">
       &copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}
