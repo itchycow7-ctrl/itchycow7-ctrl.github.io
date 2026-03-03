@@ -29,4 +29,3 @@ categories: blog
  [行ったことある市区町村][shikuchouson] 
 
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
-[yokotewarp]: https://www.city.yokote.lg.jp/kanko/1001533/1011108/1011109.html
