@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "タビキロクへようこそ！"
-date:   2026-02-26 14:41:12 +0900
+date:   2026-01-01 12:00:00 +0900
 categories: jekyll update
 published: false
 ---
