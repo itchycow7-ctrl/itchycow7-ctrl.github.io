@@ -105,7 +105,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ---
 
-### 19:00｜ディナー（北松戸 千歳）
+### 19:00｜ディナー（居酒屋「千歳」 北松戸駅）
 
 <img src="/assets/images/trips/20260221punch/route/chitose1.jpg" alt="千歳の写真1" width="400">
 
