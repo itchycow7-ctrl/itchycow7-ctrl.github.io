@@ -2,20 +2,54 @@
 layout: default
 ---
 
+<style>
+  .post-thumbnail {
+    margin-bottom: 0.75rem;
+  }
+  .post-thumbnail img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+  }
+</style>
+
 <div class="home">
-  <h1 class="page-heading">Posts</h1>
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
 
-  {% assign pinned = site.posts | where: "pin", true %}
-  {% assign normal = site.posts | where_exp: "post", "post.pin != true" %}
-  {% assign ordered_posts = pinned | concat: normal %}
+  {{ content }}
 
+  {%- if site.posts.size > 0 -%}
   <ul class="post-list">
-    {% for post in ordered_posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-        {% if post.pin %}📌 {% endif %}
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in site.posts -%}
+    <li>
+
+      {%- if post.thumbnail %}
+      <div class="post-thumbnail">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+        </a>
+      </div>
+      {%- endif %}
+
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+      {%- endif -%}
+
+    </li>
+    {%- endfor -%}
   </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
 </div>
