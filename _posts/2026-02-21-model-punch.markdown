@@ -113,6 +113,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 <img src="/assets/images/trips/20260221punch/route/chitose2.jpg" alt="千歳の写真2" style="width: 40% !important; height: auto !important;">
 </div>
 
+
 **📍 場所**: 千歳（千葉県松戸市）<br>
 **🚶 移動手段**: 北松戸駅から徒歩5分 <br>
 **🕐 営業時間**: 午後5時から午後10時半（月曜定休）<br>
