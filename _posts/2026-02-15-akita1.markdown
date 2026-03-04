@@ -15,7 +15,7 @@ categories: blog
 秋田県の冬の観光キャンペーン「誰と行く？冬の秋田」。<br>
 PRポスターに「もふもふが好き。」というキャッチコピーと映っていた秋田犬が気になりすぎて調べたところ、なんと秋田犬との散歩体験ができるとのこと。<br>
 実は今回の秋田旅行はJRの各所に貼ってあったこのポスター写真がきっかけで計画しました。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-1.jpg" alt="誰と行く？冬の秋田　ポスター" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-1.jpg" alt="誰と行く？冬の秋田　ポスター" style="width: 100% !important; height: auto !important;" loading="lazy">
 
 「ヘルスツーリズム認証」も取得しているこちらの体験プラン。<br>
 秋田県山本郡三種町の自然の中をウォーキングガイドさんと秋田犬のマサくんと一緒に散歩します。<br>
@@ -31,7 +31,7 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 鹿渡駅から散歩コースのスタート地点までは距離があるので、車がない人はガイドさんに駅まで迎えに来てもらうことができます。<br>
 駅から車で5分ほど、到着したのは三種町クアオルト・琴丘クアの古道コース拠点施設「アグベ」。<br>
 小屋の前には、、、こっちを見て歓迎してくれるマサくん！（9:30am）<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-4.jpg" alt="マサくんお出迎え" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-4.jpg" alt="マサくんお出迎え" style="width: 100% !important; height: auto !important;" loading="lazy">
 
 2月の冬毛もふもふのマサくんは、寒いのが大得意な秋田犬。<br>
 雪道も先頭を切って進んでくれます。<br>
@@ -50,7 +50,7 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 1時間かけて散歩道をぐるっと回り、元の小屋に戻ってきました。（10:30am）<br>
 最後はガイドさんが撮ってくれたマサくんとのチェキ写真も記念にもらいました。<br>
 駅までの帰りの車も、座っていながらもしっかりこっちを向いてお見送りしてくれるマサくん。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-9.jpg" alt="マサくんお見送り" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-9.jpg" alt="マサくんお見送り" style="width: 100% !important; height: auto !important;" loading="lazy">
 
 帰りもJR奥羽本線に乗って、秋田駅まで戻ります。<br>
 秋田駅に着いた頃にはちょうど昼食の時間だったため、駅ビル内にある「秋田港」さんでお寿司を食べることに。（12:30pm）<br>
