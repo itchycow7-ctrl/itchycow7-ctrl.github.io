@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<style>
-  .post-thumbnail {
-    margin-bottom: 0.75rem;
-  }
-  .post-thumbnail img {
-    max-width: 200px;   /* ← ここを変更（元は100%）*/
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 4px;
-  }
-</style>
-
 <div class="home">
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
@@ -27,15 +14,6 @@ layout: default
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in site.posts -%}
     <li>
-
-      {%- if post.thumbnail %}
-      <div class="post-thumbnail">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
-        </a>
-      </div>
-      {%- endif %}
-
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
@@ -43,9 +21,8 @@ layout: default
         </a>
       </h3>
       {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
+        {{ post.excerpt }}
       {%- endif -%}
-
     </li>
     {%- endfor -%}
   </ul>
