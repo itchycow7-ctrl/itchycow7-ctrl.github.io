@@ -15,7 +15,7 @@ categories: blog
 秋田県の冬の観光キャンペーン「誰と行く？冬の秋田」。<br>
 PRポスターに「もふもふが好き。」というキャッチコピーと映っていた秋田犬が気になりすぎて調べたところ、なんと秋田犬との散歩体験ができるとのこと。<br>
 実は今回の秋田旅行はJRの各所に貼ってあったこのポスター写真がきっかけで計画しました。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-1.jpg" alt="誰と行く？冬の秋田　ポスター" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-1.jpg" alt="誰と行く？冬の秋田　ポスター" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 「ヘルスツーリズム認証」も取得しているこちらの体験プラン。<br>
 秋田県山本郡三種町の自然の中をウォーキングガイドさんと秋田犬のマサくんと一緒に散歩します。<br>
@@ -23,35 +23,35 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 
 今回参加するのは朝9:30からスタートの午前の部。<br>
 秋田駅からJR奥羽本線に乗って45分、鹿渡駅に向かいます。（7:27am）<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-2.jpg" alt="秋田駅ホーム1" width="200" loading="lazy">
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-3.jpg" alt="秋田駅ホーム2" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-2.jpg" alt="秋田駅ホーム1" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-3.jpg" alt="秋田駅ホーム2" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 鹿渡駅から散歩コースのスタート地点までは距離があるので、車がない人はガイドさんに駅まで迎えに来てもらうことができます。<br>
 駅から車で5分ほど、到着したのは三種町クアオルト・琴丘クアの古道コース拠点施設「アグベ」。<br>
 小屋の前には、、、こっちを見て歓迎してくれるマサくん！（9:30am）<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-4.jpg" alt="マサくんお出迎え" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-4.jpg" alt="マサくんお出迎え" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 2月の冬毛もふもふのマサくんは、寒いのが大得意な秋田犬。<br>
 雪道も先頭を切って進んでくれます。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-5.jpg" alt="マサくん散歩1" width="200" loading="lazy">
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-6.jpg" alt="マサくん散歩2" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-5.jpg" alt="マサくん散歩1" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-6.jpg" alt="マサくん散歩2" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 ちなみに、秋田では最近熊被害が相次いでいたため、散歩道の要所要所に熊除けの板がありました。<br>
 2月は一応冬眠期間ですが、念のために板を叩いて人間がいることを知らせます。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-7.jpg" alt="熊除け板1" width="200" loading="lazy">
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-8.jpg" alt="熊除け板2" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-7.jpg" alt="熊除け板1" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-8.jpg" alt="熊除け板2" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 1時間かけて散歩道をぐるっと回り、元の小屋に戻ってきました。（10:30am）<br>
 最後はガイドさんが撮ってくれたマサくんとのチェキ写真も記念にもらいました。<br>
 駅までの帰りの車も、座っていながらもしっかりこっちを向いてお見送りしてくれるマサくん。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-9.jpg" alt="マサくんお見送り" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-9.jpg" alt="マサくんお見送り" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 帰りもJR奥羽本線に乗って、秋田駅まで戻ります。<br>
 秋田駅に着いた頃にはちょうど昼食の時間だったため、駅ビル内にある「秋田港」さんでお寿司を食べることに。（12:30pm）<br>
 日曜日のお昼時だったので人がたくさんいましたが、30分程度並んだら入店できました。<br>
 日替わりランチは税込み1,518円とコスパ最強。私は秋田港極上にぎりランチ（税込み2,750円）を注文。ごちそうさまでした。<br>
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-10.jpg" alt="秋田港ランチ店舗外観" width="200" loading="lazy">
-<img src="/assets/images/trips/20260215-1akita/blog/20260215-11.jpg" alt="秋田港ランチ料理" width="200" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-10.jpg" alt="秋田港ランチ店舗外観" style="width: 400px !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-1akita/blog/20260215-11.jpg" alt="秋田港ランチ料理" style="width: 400px !important; height: auto !important;" loading="lazy">
 
 <br>
 つづきは<br>

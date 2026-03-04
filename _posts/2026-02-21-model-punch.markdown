@@ -53,7 +53,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ### 13:30｜市川市動植物園
 
-<img src="/assets/images/trips/20260221punch/route/ticket.jpg" alt="市川市動植物園入場券の写真" width="200">
+<img src="/assets/images/trips/20260221punch/route/ticket.jpg" alt="市川市動植物園入場券の写真" style="width: 400px !important; height: auto !important;"
 
 **📍 場所**: 市川市動植物園（千葉県市川市）<br>  
 **🚶 移動手段**: 市川大野駅から徒歩30分。バスなら10分。<br>  
@@ -78,7 +78,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ### 16:30｜退園
 
-<img src="/assets/images/trips/20260221punch/route/meerkat.jpg" alt="市川市動植物園ミーアキャットの写真" width="200">
+<img src="/assets/images/trips/20260221punch/route/meerkat.jpg" alt="市川市動植物園ミーアキャットの写真" style="width: 400px !important; height: auto !important;">
 
 市川市動植物園は16:30閉園です。
 
@@ -107,9 +107,9 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ### 19:00｜ディナー（居酒屋「千歳」 北松戸駅）
 
-<img src="/assets/images/trips/20260221punch/route/chitose1.jpg" alt="千歳の写真1" width="200">
+<img src="/assets/images/trips/20260221punch/route/chitose1.jpg" alt="千歳の写真1" style="width: 400px !important; height: auto !important;">
 
-<img src="/assets/images/trips/20260221punch/route/chitose2.jpg" alt="千歳の写真2" width="100">
+<img src="/assets/images/trips/20260221punch/route/chitose2.jpg" alt="千歳の写真2" style="width: 200px !important; height: auto !important;">
 
 **📍 場所**: 千歳（千葉県松戸市）<br>
 **🚶 移動手段**: 北松戸駅から徒歩5分 <br>
