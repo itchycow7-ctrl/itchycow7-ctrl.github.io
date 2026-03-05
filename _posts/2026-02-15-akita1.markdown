@@ -2,7 +2,7 @@
 layout: post
 title:  "【秋田県】秋田犬散歩体験　2026"
 date:   2026-02-15 12:00:00 +0900
-categories: blog
+categories: blog akita
 thumbnail: /assets/images/trips/20260215-1akita/blog/20260215-5.jpg
 ---
 今回ご紹介するのは、2026年2月に体験した<br>
@@ -16,6 +16,7 @@ thumbnail: /assets/images/trips/20260215-1akita/blog/20260215-5.jpg
 
 ---
 
+<br>
 秋田県の冬の観光キャンペーン「誰と行く？冬の秋田」。<br>
 PRポスターに「もふもふが好き。」というキャッチコピーと映っていた秋田犬が気になりすぎて調べたところ、なんと秋田犬との散歩体験ができるとのこと。<br>
 実は今回の秋田旅行はJRの各所に貼ってあったこのポスター写真がきっかけで計画しました。<br>

@@ -2,7 +2,7 @@
 layout: post
 title:  "【千葉県】【モデルルート】市川市動植物園"
 date:   2026-02-21 12:01:00 +0900
-categories: route
+categories: route chiba
 thumbnail: /assets/images/trips/20260221punch/route/thumb.jpg
 ---
 ## ルート概要
