@@ -9,7 +9,7 @@ thumbnail: /assets/images/trips/20260215-1akita/blog/20260215-5.jpg
 ・秋田犬散歩体験<br>
 
 ---
-
+<br>
 １つ前の記事はこちら<br>
 【秋田県】横手のかまくら/湯沢市犬っこまつり　2026
 
@@ -31,7 +31,7 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 <img src="/assets/images/trips/20260215-1akita/blog/20260215-3.jpg" alt="秋田駅ホーム2" style="width: 50% !important; height: auto !important;" loading="lazy">
 </div>
 
-
+<br>
 鹿渡駅から散歩コースのスタート地点までは距離があるので、車がない人はガイドさんに駅まで迎えに来てもらうことができます。<br>
 駅から車で5分ほど、到着したのは三種町クアオルト・琴丘クアの古道コース拠点施設「アグベ」。<br>
 小屋の前には、、、こっちを見て歓迎してくれるマサくん！（9:30am）<br>
@@ -44,7 +44,7 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 <img src="/assets/images/trips/20260215-1akita/blog/20260215-6.jpg" alt="マサくん散歩2" style="width: 50% !important; height: auto !important;" loading="lazy">
 </div>
 
-
+<br>
 ちなみに、秋田では最近熊被害が相次いでいたため、散歩道の要所要所に熊除けの板がありました。<br>
 2月は一応冬眠期間ですが、念のために板を叩いて人間がいることを知らせます。
 <div style="display: flex; gap: 16px;">
@@ -52,7 +52,7 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 <img src="/assets/images/trips/20260215-1akita/blog/20260215-8.jpg" alt="熊除け板2" style="width: 50% !important; height: auto !important;" loading="lazy">
 </div>
 
-
+<br>
 1時間かけて散歩道をぐるっと回り、元の小屋に戻ってきました。（10:30am）<br>
 最後はガイドさんが撮ってくれたマサくんとのチェキ写真も記念にもらいました。<br>
 駅までの帰りの車も、座っていながらもしっかりこっちを向いてお見送りしてくれるマサくん。<br>
@@ -70,7 +70,7 @@ PRポスターに「もふもふが好き。」というキャッチコピーと
 
 <br>
 ---
-
+<br>
 つづきは<br>
 【秋田県】男鹿のなまはげまつり　2026
 
