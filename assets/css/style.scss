@@ -15,3 +15,10 @@ label[for="nav-trigger"],
 .menu-icon {
   display: none !important;
 }
+
+/* 画像の選択・ドラッグを無効化 */
+img {
+  user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none;
+}
