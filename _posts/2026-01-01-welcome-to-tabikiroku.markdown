@@ -16,8 +16,9 @@ thumbnail: /assets/images/logo.jpg
 これからもゆんと僕をよろしくお願いします。
 
 それでは、行ってきます！
+<br>
 
-
+---
 
 <br>
 <br>

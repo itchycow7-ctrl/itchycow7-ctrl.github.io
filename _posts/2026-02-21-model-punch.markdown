@@ -13,10 +13,11 @@ thumbnail: /assets/images/trips/20260221punch/route/thumb.jpg
 - **おすすめ季節**: 春・秋<br>
 
 ---
+
 <br>
 このルートで行った旅行がこちら。<br>
 【千葉県】市川市動植物園/パンチくん　2026
-<br>
+
 ---
 
 ## タイムライン
@@ -58,7 +59,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ### 13:30｜市川市動植物園
 
-<img src="/assets/images/trips/20260221punch/route/ticket.jpg" alt="市川市動植物園入場券の写真" style="width: 100% !important; height: auto !important;">
+<img src="/assets/images/trips/20260221punch/route/ticket.jpg" alt="市川市動植物園入場券の写真" style="width: 90% !important; height: auto !important;">
 
 **📍 場所**: 市川市動植物園（千葉県市川市）<br>  
 **🚶 移動手段**: 市川大野駅から徒歩30分。バスなら10分。<br>  
@@ -83,7 +84,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ### 16:30｜退園
 
-<img src="/assets/images/trips/20260221punch/route/meerkat.jpg" alt="市川市動植物園ミーアキャットの写真" style="width: 100% !important; height: auto !important;">
+<img src="/assets/images/trips/20260221punch/route/meerkat.jpg" alt="市川市動植物園ミーアキャットの写真" style="width: 90% !important; height: auto !important;">
 
 市川市動植物園は16:30閉園です。
 
@@ -112,7 +113,7 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 
 ### 19:00｜ディナー（居酒屋「千歳」 北松戸駅）
 
-<div style="display: flex; gap: 16px;">
+<div style="display: flex; gap: 9px;">
 <img src="/assets/images/trips/20260221punch/route/chitose1.jpg" alt="千歳の写真1" style="width: 50% !important; height: auto !important;">
 
 <img src="/assets/images/trips/20260221punch/route/chitose2.jpg" alt="千歳の写真2" style="width: 40% !important; height: auto !important;">
@@ -155,10 +156,11 @@ JR常磐線の各駅停車と、JR武蔵野線が通る駅です。<br>
 <br>
 
 ---
+
 <br>
 このルートで行った旅行がこちら。<br>
 【千葉県】市川市動植物園/パンチくん　2026
-<br>
+
 ---
 
 
