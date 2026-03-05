@@ -8,3 +8,10 @@
   width: 100%;
   height: auto;
 }
+
+// ハンバーガーメニューボタンを非表示
+.nav-trigger,
+label[for="nav-trigger"],
+.menu-icon {
+  display: none !important;
+}
