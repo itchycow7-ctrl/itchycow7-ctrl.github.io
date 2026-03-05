@@ -53,8 +53,7 @@ thumbnail: /assets/images/trips/20260214akita/blog/20260214-16.jpg
 心ゆくまでかまくら作りを体験したら、次のアクティビティに移動。<br>
 今回は駅から徒歩２分の横手駅前温泉ゆうゆうプラザで昼食休憩をとります。（12:00pm）<br>
 大浴場での入浴に加え、個室での昼食もついた贅沢プラン。<br>
-隣接の別館ホテルプラザアネックスでは、予約制の貸切風呂もあります！
-<div style="display: flex; gap: 10px;">
+隣接の別館ホテルプラザアネックスでは、予約制の貸切風呂もあります！<div style="display: flex; gap: 16px;">
 <img src="/assets/images/trips/20260214akita/blog/20260214-8.jpg" alt="横手ゆうゆうプラザ1" style="width: 50% !important; height: auto !important;" loading="lazy">
 <img src="/assets/images/trips/20260214akita/blog/20260214-9.jpg" alt="横手ゆうゆうプラザ2" style="width: 50% !important; height: auto !important;" loading="lazy">
 </div>
