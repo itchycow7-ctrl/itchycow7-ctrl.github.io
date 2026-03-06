@@ -15,11 +15,41 @@
 
     {%- include footer.html -%}
 
+    <!-- 右クリック禁止 -->
     <script>
       document.addEventListener('contextmenu', function(e) {
         e.preventDefault();
       });
     </script>
+
+    <!-- ブログタイトルを画面幅にフィットさせる -->
+    <script>
+      function fitTitleToWidth() {
+        var title = document.querySelector('.post-title');
+        if (!title) return;
+
+        title.style.whiteSpace = 'nowrap';
+        title.style.display = 'block';
+
+        var low = 1;
+        var high = 300;
+
+        while (low < high - 1) {
+          var mid = Math.floor((low + high) / 2);
+          title.style.fontSize = mid + 'px';
+          if (title.scrollWidth <= document.documentElement.clientWidth) {
+            low = mid;
+          } else {
+            high = mid;
+          }
+        }
+        title.style.fontSize = low + 'px';
+      }
+
+      document.addEventListener('DOMContentLoaded', fitTitleToWidth);
+      window.addEventListener('resize', fitTitleToWidth);
+    </script>
+
   </body>
 
 </html>
