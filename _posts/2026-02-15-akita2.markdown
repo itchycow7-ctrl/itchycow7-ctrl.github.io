@@ -23,10 +23,12 @@ categories: blog akita
 なまはげとは、その怖い見た目の反面、災いを祓い福をもたらす神の使い。<br>
 男鹿地区では大晦日になまはげが家々をめぐる行事があるようです。<br>
 毎年2月に開催される「なはまげ柴灯(せど)まつり」は、900年以上の歴史ある神事「柴灯祭(さいとうさい)」と民俗行事「なまはげ」を組み合わせた冬の観光行事。<br>
+[なまはげ柴灯(せど)まつり][namahagematsuri]
 
 夜に開催されるお祭りのため、移動開始は午後からです。<br>
 まずは秋田駅から男鹿駅まで、JR奥羽本線に乗って約1時間。<br>
 なまはげまつりの期間中は臨時の全席指定制列車「なはまげ柴灯まつり号」も運行されます。<br>
+[なはまげ柴灯まつり号][namahagego]
 
 男鹿駅に着いたら、臨時有料バスに乗って会場まで約30分。（事前予約不要）<br>
 車で参加する場合は、臨時駐車場が計5か所（約500台分）用意されています。<br>
@@ -97,3 +99,5 @@ categories: blog akita
  [行ったことある市区町村][shikuchouson] 
 
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
+[namahagematsuri]: https://oganavi.com/sedo/
+[namahagego]: https://www.jreast.co.jp/sendai/eventtrain/
