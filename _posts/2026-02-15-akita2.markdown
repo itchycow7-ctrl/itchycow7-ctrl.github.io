@@ -71,7 +71,7 @@ thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 ・そば<br>
 ・焼ききりたんぽ<br>
 が販売されていました。<br>
-<img src="/assets/images/trips/20260215-2akita/blog/20260215-32.jpg" alt="なはまげ柴灯まつり うどん" style="width: 90% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-32.jpg" alt="なはまげ柴灯まつり うどん" style="width: 70% !important; height: auto !important;" loading="lazy">
 
 この日は雪が降っておらず天気が良く、気温も高めだったため過ごしやすかったです。<br>
 ただ、積もっていた雪が溶けたことで足元はとてもぬかるんでいました。<br>
