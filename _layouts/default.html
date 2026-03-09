@@ -28,6 +28,11 @@
         var title = document.querySelector('.post-title');
         if (!title) return;
 
+        // 基準幅：親要素の横幅（サムネイルのコンテナ幅）
+        var container = title.parentElement;
+        if (!container) return;
+        var maxWidth = container.clientWidth;
+
         title.style.whiteSpace = 'nowrap';
         title.style.display = 'block';
 
@@ -37,7 +42,7 @@
         while (low < high - 1) {
           var mid = Math.floor((low + high) / 2);
           title.style.fontSize = mid + 'px';
-          if (title.scrollWidth <= document.documentElement.clientWidth) {
+          if (title.scrollWidth <= maxWidth) {
             low = mid;
           } else {
             high = mid;
