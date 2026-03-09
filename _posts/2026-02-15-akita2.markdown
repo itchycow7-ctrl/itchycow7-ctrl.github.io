@@ -31,7 +31,7 @@ thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 まずは秋田駅から男鹿駅まで、JR奥羽本線に乗って約1時間。<br>
 なまはげまつりの期間中は臨時の全席指定制列車「なはまげ柴灯まつり号」も運行されます。<br>
 [なはまげ柴灯まつり号][namahagego]<br>
-<img src="/assets/images/trips/20260215-2akita/blog/20260215-13.jpg" alt="なはまげ柴灯まつり号" style="width: 90% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-13.jpg" alt="なはまげ柴灯まつり号" style="width: 80% !important; height: auto !important;" loading="lazy">
 
 男鹿駅に着いたら、臨時有料バスに乗って会場まで約30分。（事前予約不要）<br>
 車で参加する場合は、臨時駐車場が計5か所（約500台分）用意されています。<br>
