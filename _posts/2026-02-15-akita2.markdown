@@ -20,7 +20,7 @@ thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 秋田県西部、日本海にちょっと出っ張っているのが男鹿半島。<br>
 古来からの奇習で、国指定重要無形民俗文化財かつユネスコ無形文化遺産に登録されいる「なまはげ」の町、男鹿市。<br>
 今回はこちらにある真山神社で行われる「なはまげ柴灯(せど)まつり」に参加してきました。<br>
-<img src="/assets/images/trips/20260215-2akita/blog/20260215-12.jpg" alt="なはまげ柴灯(せど)まつり　ポスター" style="width: 90% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-12.jpg" alt="なはまげ柴灯(せど)まつり　ポスター" style="width: 70% !important; height: auto !important;" loading="lazy">
 
 なまはげとは、その怖い見た目の反面、災いを祓い福をもたらす神の使い。<br>
 男鹿地区では大晦日になまはげが家々をめぐる行事があるようです。<br>
