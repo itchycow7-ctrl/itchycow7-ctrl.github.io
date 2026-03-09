@@ -3,46 +3,89 @@ layout: post
 title:  "【神奈川県】伊豆 第36回河津桜まつり　2026"
 date:   2026-02-28 12:00:00 +0900
 categories: blog kanagawa
+thumbnail: /assets/images/trips/20260228izu/blog/20260228-10.jpg
 ---
 今回ご紹介するのは、2026年2月に訪問した<br>
 ・伊豆 第36回河津桜まつり<br>
-[第３６回　河津桜まつり][kawaduzakura]
 
 <br>
 早春のお花見で人気の河津桜。<br>
-今年も一足はやい春を探しに、伊豆の河津桜祭りに行ってきました。<br>
+今年も一足はやい春を探しに、伊豆の河津桜祭りへ。<br>
+
+[第３６回　河津桜まつり][kawazuzakura]<br>
 
 伊豆半島にある静岡県賀茂郡河津町。<br>
 ここでは毎年大好評の河津桜まつりが2月初旬から3月初旬まで開催されています。<br>
 今回は2026年2月28日に行ってきました。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-8.jpg" alt="河津桜まつり" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 目的地は伊豆急行の停車駅、河津駅。
 新宿駅から出発し、小田急線に乗ってまずは小田原まで出ました。<br>
 小田原からはJR東海道本線に乗り、JR伊東線直通の列車に乗車。<br>
 これに乗ってしまえば、伊豆急行の始発駅である伊東駅まで１本で行けます。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-3.jpg" alt="伊豆急行" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 伊東駅からは伊豆半島を縦断する伊豆急行に乗り換え、河津駅まで約1時間。<br>
-駅には「河津桜発祥の地」と大きく書かれていました。<br>
+伊豆半島の海岸沿いを走る伊豆急行の車窓からは、きれいな海が見えました。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-2.jpg" alt="伊豆急行の車窓から" style="width: 90% !important; height: auto !important;" loading="lazy">
+
+河津駅には「河津桜発祥の地」と大きく書かれていました。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-5.jpg" alt="河津町へようこそ" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 この日は天気に恵まれ、桜の背景はきれいな青空。<br>
 連日のぽかぽか日和で桜の木はすでに青い葉がたくさん生えていました。<br>
 ただ、菜の花はちょうど満開。黄色とピンクのコントラストがとてもきれいです。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-7.jpg" alt="河津桜と菜の花" style="width: 90% !important; height: auto !important;" loading="lazy">
+
+桜の木を見上げると、蜜を求めて飛ぶメジロの姿も。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-16.jpg" alt="河津桜とメジロ" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 河津川沿いに北に進んでいくと、桜並木と菜の花ロードが続きます。<br>
-屋台もたくさん並んでおり、花より団子の人にもうれしいお祭り。<br>
+屋台もたくさん並んでおり、花より団子の人にもうれしいお祭り。
+<div style="display: flex; gap: 9px;">
+<img src="/assets/images/trips/20260228izu/blog/20260228-14.jpg" alt="河津桜まつり屋台1" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260228izu/blog/20260228-12.jpg" alt="河津桜まつり屋台2" style="width: 50% !important; height: auto !important;" loading="lazy">
+</div>
 
+<br>
+焼きトウモロコシとお団子も購入。<br>
+いよいよ伊豆まで来た目的がぶれてきました。
+<div style="display: flex; gap: 9px;">
+<img src="/assets/images/trips/20260228izu/blog/20260228-17.jpg" alt="河津桜まつり 焼きトウモロコシ" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260228izu/blog/20260228-23.jpg" alt="河津桜まつり お団子" style="width: 50% !important; height: auto !important;" loading="lazy">
+</div>
+
+<br>
 一番特徴的だったのが、生絞りみかんジュース！<br>
 河津桜まつり会場で販売されているみかんジュースはどれもその場で生絞り。<br>
-ここのお店ではみかんの種類も豊富で、飲み比べもできました。<br>
+川沿いを進んだ先にあった2件目のお店ではみかんの種類も豊富で、飲み比べもできました。
+<div style="display: flex; gap: 9px;">
+<img src="/assets/images/trips/20260228izu/blog/20260228-13.jpg" alt="生絞りみかんジュース1" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260228izu/blog/20260228-20.jpg" alt="生絞りみかんジュース2" style="width: 50% !important; height: auto !important;" loading="lazy">
+</div>
+
+<br>
+その場で作ってくれる大きなおせんべいも！<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-19.jpg" alt="河津桜まつり 大きなおせんべい" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 河津駅から南に進むと、河津浜海水浴場につきます。<br>
 まだ水遊びする季節ではありませんが、風が落ち着いていれば屋台で買ったものをここで食べるのも良いかもしれません。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-21.jpg" alt="河津浜海水浴場" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 途中、魚の干物を販売しているお店もありました。お土産にもぴったりです。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-11.jpg" alt="さんまはりこ" style="width: 90% !important; height: auto !important;" loading="lazy">
+
+老若男女、多くの観光客で賑わう河津桜まつりでした。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-18.jpg" alt="河津桜まつり さくら" style="width: 90% !important; height: auto !important;" loading="lazy">
+
 
 帰りは、河津駅から特急「踊り子」に乗ります。<br>
 全席指定制で、なんと東京まで2時間半、横浜まで約2時間、乗り換えなしで行けます。<br>
-今回は河津駅まえにある「伊豆のめっけもん かま康」で購入したあじ寿司を食べながら帰りました。<br>
+今回は河津駅まえにある「伊豆のめっけもん かま康」で購入したあじ寿司を食べながら帰りました。
+
+ちょうど良いタイミングを狙うのはなかなか至難の業ですが、<br>
+もう少し早い２月中旬に行けば、葉っぱのない満開の河津桜が見れるかもしれません。<br>
+<img src="/assets/images/trips/20260228izu/blog/20260228-22.jpg" alt="河津桜説明" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 
 
@@ -60,4 +103,4 @@ categories: blog kanagawa
  [行ったことある市区町村][shikuchouson] 
 
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
-[kawaduzakura]: https://kawazuzakura.jp/
+[kawazuzakura]: https://kawazuzakura.jp/

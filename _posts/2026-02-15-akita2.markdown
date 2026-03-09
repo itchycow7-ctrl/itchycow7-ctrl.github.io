@@ -3,6 +3,7 @@ layout: post
 title:  "【秋田県】男鹿のなまはげまつり　2026"
 date:   2026-02-15 12:01:00 +0900
 categories: blog akita
+thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 ---
 今回ご紹介するのは、2026年2月に体験した<br>
 ・男鹿のなまはげ柴灯(せど)まつり
@@ -19,6 +20,7 @@ categories: blog akita
 秋田県西部、日本海にちょっと出っ張っているのが男鹿半島。<br>
 古来からの奇習で、国指定重要無形民俗文化財かつユネスコ無形文化遺産に登録されいる「なまはげ」の町、男鹿市。<br>
 今回はこちらにある真山神社で行われる「なはまげ柴灯(せど)まつり」に参加してきました。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-12.jpg" alt="なはまげ柴灯(せど)まつり　ポスター" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 なまはげとは、その怖い見た目の反面、災いを祓い福をもたらす神の使い。<br>
 男鹿地区では大晦日になまはげが家々をめぐる行事があるようです。<br>
@@ -28,26 +30,39 @@ categories: blog akita
 夜に開催されるお祭りのため、移動開始は午後からです。<br>
 まずは秋田駅から男鹿駅まで、JR奥羽本線に乗って約1時間。<br>
 なまはげまつりの期間中は臨時の全席指定制列車「なはまげ柴灯まつり号」も運行されます。<br>
-[なはまげ柴灯まつり号][namahagego]
+[なはまげ柴灯まつり号][namahagego]<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-13.jpg" alt="なはまげ柴灯まつり号" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 男鹿駅に着いたら、臨時有料バスに乗って会場まで約30分。（事前予約不要）<br>
 車で参加する場合は、臨時駐車場が計5か所（約500台分）用意されています。<br>
 会場から徒歩圏内の第１、２、３駐車場は開始時間の18時には満車なので要注意。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-14.jpg" alt="なはまげ柴灯まつり 臨時有料バス" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 入場には入場料が必要です。<br>
 2026年は1人1000円で、現地でも購入できるようですが、kkdayというサイトで事前購入しておくとスムーズです。<br>
+[kkday なまはげ柴灯まつり 入場協賛金][kkdaynamahage]
 
 なまはげ館を横目に提灯が並ぶ坂道を登っていくと、真山神社の門にたどり着きます。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-15.jpg" alt="なはまげ柴灯まつり 提灯" style="width: 90% !important; height: auto !important;" loading="lazy">
+
 入り口で入場券（というより入場札）を受け取り。<br>
 一つ一つ手作りなのでしょうか？包丁のような形で、形やサイズにそれぞれ特徴がありました。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-16.jpg" alt="なはまげ柴灯まつり 入場券" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 そこからさらに階段を昇っていくと、祭り会場へ。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-17.jpg" alt="なはまげ柴灯まつり 階段" style="width: 90% !important; height: auto !important;" loading="lazy">
+
 祭は18:00～20:30で、行事の予定がぎっしり。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-18.jpg" alt="なはまげ柴灯まつり 行事予定" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 参道入り口で若者たちがなまはげと化す「なまはげ入魂」。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-19.jpg" alt="なはまげ入魂" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 会場中央に設置されている大きな「柴灯火」。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-24.jpg" alt="柴灯火" style="width: 90% !important; height: auto !important;" loading="lazy">
+
 その前で青と赤のなまはげ２体が踊る「なまはげ踊り」。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-20.jpg" alt="なはまげ踊り" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 飲食屋台は１つ、<br>
 ・甘酒<br>
@@ -56,24 +71,40 @@ categories: blog akita
 ・そば<br>
 ・焼ききりたんぽ<br>
 が販売されていました。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-32.jpg" alt="なはまげ柴灯まつり うどん" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 この日は雪が降っておらず天気が良く、気温も高めだったため過ごしやすかったです。<br>
 ただ、積もっていた雪が溶けたことで足元はとてもぬかるんでいました。<br>
 
 クライマックスの「なまはげ下山」では、先ほど参道でなまはげと化した若者たちが闇の中から降り立ち、会場内を練り歩きます。<br>
 なまはげから落ちた藁を拾うと金運アップ、頭に巻き付ければ賢さアップが期待できる、とのこと。<br>
-でも、勝手に身体から抜き取るのはNG。<br>
+でも、勝手に身体から抜き取るのはNG。
+<div style="display: flex; gap: 9px;">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-21.jpg" alt="なまはげ下山1" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-23.jpg" alt="なまはげ下山2" style="width: 50% !important; height: auto !important;" loading="lazy">
+</div>
 
-なまはげたちは、柴灯火で焼いたお餅を神官から手に入れると、髪のもとへ帰っていきます。<br>
+<br>
+なまはげたちは、柴灯火で焼いたお餅を神官から手に入れると、神のもとへ帰っていきます。<br>
 すると、最後には男鹿市内各地区のなまはげが会場に乱入します。<br>
-観客は各々で気になるなまはげを見つけ出し、記念撮影も可能です。<br>
+観客は各々で気になるなまはげを見つけ出し、記念撮影も可能です。
+<div style="display: flex; gap: 9px;">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-26.jpg" alt="なまはげ乱入1" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-25.jpg" alt="なまはげ乱入2" style="width: 50% !important; height: auto !important;" loading="lazy">
+</div>
 
+<br>
 なかにはちょっとコミカルな見た目のなまはげも。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-27.jpg" alt="なまはげ乱入3" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 20:30になると、お祭り終了の合図とともに短い花火が上がります。<br>
 出口付近ではなまはげが神のもとに持ち帰った柴灯火のお餅と同じものを、一部もらうこともできます。<br>
 
 なまはげさんたちは、みんな終了時間ギリギリまで快く写真に対応してくれました。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-30.jpg" alt="なまはげ乱入 全体" style="width: 90% !important; height: auto !important;" loading="lazy">
+
+そしてなんと、男鹿市長とも写真を撮らせてもらいました。<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-28.jpg" alt="男鹿市長" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 行きと同様、帰りも臨時有料バスで男鹿駅まで移動。<br>
 大型バスが複数台運行していたようですが、祭の最後まで残ると人数が多く、乗れるまで少し並びました。<br>
@@ -84,6 +115,7 @@ categories: blog akita
 なまはげさんは会場で子供を見つけると連れて行ってしまうため、泣き叫んでいる姿をたくさん見かけました。<br>
 帰り際、なまはげさんに言われた「また来てけれな！」。<br>
 次回はこどもを連れてくるのも楽しいかも？<br>
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-29.jpg" alt="なまはげ集合" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 
 
@@ -101,3 +133,4 @@ categories: blog akita
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
 [namahagematsuri]: https://oganavi.com/sedo/
 [namahagego]: https://www.jreast.co.jp/sendai/eventtrain/
+[kkdaynamahage]: https://www.kkday.com/ja/product/547213?srsltid=AfmBOoqDKih0VOZDOM_txiSE7AYhrPnNP57pbuwWzI1sO2Na6p5Wj873
