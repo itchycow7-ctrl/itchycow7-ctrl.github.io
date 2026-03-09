@@ -89,8 +89,8 @@ thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 すると、最後には男鹿市内各地区のなまはげが会場に乱入します。<br>
 観客は各々で気になるなまはげを見つけ出し、記念撮影も可能です。
 <div style="display: flex; gap: 9px;">
-<img src="/assets/images/trips/20260215-2akita/blog/20260215-26.jpg" alt="なまはげ乱入1" style="width: 50% !important; height: auto !important;" loading="lazy">
-<img src="/assets/images/trips/20260215-2akita/blog/20260215-25.jpg" alt="なまはげ乱入2" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-25.jpg" alt="なまはげ乱入1" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260215-2akita/blog/20260215-26.jpg" alt="なまはげ乱入2" style="width: 50% !important; height: auto !important;" loading="lazy">
 </div>
 
 <br>
@@ -112,9 +112,9 @@ thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 帰りも通常のJR奥羽本線に加え、全席指定の臨時列車「なはまげ柴灯まつり号」も運行しています。<br>
 電車にもよりますが、20:30まで会場に残ると、秋田駅に着くのは22時台、遅くて23時台です。<br>
 
-なまはげさんは会場で子供を見つけると連れて行ってしまうため、泣き叫んでいる姿をたくさん見かけました。<br>
-帰り際、なまはげさんに言われた「また来てけれな！」。<br>
-次回はこどもを連れてくるのも楽しいかも？<br>
+見た目に反して、しっかり写真対応してくれるなまはげさん一同。
+帰り際、なまはげさんたちに「また来てけれな！」と言ってもらいました。<br>
+楽しかった！なまはげ柴灯まつり！<br>
 <img src="/assets/images/trips/20260215-2akita/blog/20260215-29.jpg" alt="なまはげ集合" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 
