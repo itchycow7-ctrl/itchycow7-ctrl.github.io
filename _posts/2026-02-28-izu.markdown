@@ -48,11 +48,11 @@ thumbnail: /assets/images/trips/20260228izu/blog/20260228-10.jpg
 </div>
 
 <br>
-焼きトウモロコシとお団子も購入。<br>
+お団子と焼きトウモロコシ購入。<br>
 いよいよ伊豆まで来た目的がぶれてきました。
 <div style="display: flex; gap: 9px;">
-<img src="/assets/images/trips/20260228izu/blog/20260228-17.jpg" alt="河津桜まつり 焼きトウモロコシ" style="width: 50% !important; height: auto !important;" loading="lazy">
-<img src="/assets/images/trips/20260228izu/blog/20260228-23.jpg" alt="河津桜まつり お団子" style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260228izu/blog/20260228-23.jpg" alt="河津桜まつり お団子 style="width: 50% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260228izu/blog/20260228-17.jpg" alt="河津桜まつり 焼きトウモロコシ"" style="width: 50% !important; height: auto !important;" loading="lazy">
 </div>
 
 <br>
