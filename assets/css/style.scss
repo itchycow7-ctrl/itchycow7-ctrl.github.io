@@ -162,12 +162,19 @@ img {
 /* スマホ対応 */
 @media (max-width: 768px) {
   .post-list-link {
-    flex-direction: column;
+    flex-direction: row;
+    align-items: flex-start
   }
 
-  .post-thumbnail img {
-    width: 100%;
-    height: auto;
+  .post-thumbnail img,
+  .post-thumbnail--placeholder {
+    width: 120px;
+    height: 82px;
+    flex-shrink: 0;
+  }
+
+  .post-link {
+    font-size: 1rem;
   }
 }
 
