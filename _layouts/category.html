@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="category-page">
+  <h1>{{ page.title }}</h1>
+
+  {% assign category_slug = page.category_slug %}
+  {% assign posts_in_category = site.posts | where_exp: "post", "post.categories contains category_slug" %}
+
+  {% if posts_in_category.size > 0 %}
+    <ul class="post-list">
+      {% for post in posts_in_category %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>まだ記事がありません。</p>
+  {% endif %}
+</div>

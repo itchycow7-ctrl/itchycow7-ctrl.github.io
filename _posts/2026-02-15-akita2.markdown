@@ -2,7 +2,7 @@
 layout: post
 title:  "【秋田県】男鹿のなまはげまつり　2026"
 date:   2026-02-15 12:01:00 +0900
-categories: blog akita
+categories: [blog, akita]
 thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 ---
 今回ご紹介するのは、2026年2月に体験した<br>

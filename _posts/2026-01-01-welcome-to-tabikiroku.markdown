@@ -3,7 +3,7 @@ layout: post
 title:  "タビキロクへようこそ！"
 date:   2026-02-26 12:00:00 +0900
 pinned: true
-categories: welcome
+categories: [welcome]
 thumbnail: /assets/images/logo.jpg
 ---
 タビキロクへようこそ！

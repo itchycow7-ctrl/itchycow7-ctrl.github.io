@@ -22,3 +22,68 @@ img {
   -webkit-user-drag: none;
   pointer-events: none;
 }
+
+/* ===== サイドバーレイアウト ===== */
+.site-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0; /* はみ出し防止 */
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  background: #f8f8f8;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
+.sidebar-nav ul {
+  list-style: none;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+.sidebar-nav ul li a {
+  display: block;
+  padding: 4px 0;
+  color: #333;
+  text-decoration: none;
+}
+
+.sidebar-nav ul li a:hover {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+.sidebar-heading {
+  font-size: 0.85rem;
+  font-weight: bold;
+  color: #666;
+  margin: 0.8rem 0 0.4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
+}
+
+.prefecture-list {
+  max-height: 400px;
+  overflow-y: auto; /* 長い場合はスクロール */
+}
+
+/* スマホ対応：縦並びに切り替え */
+@media (max-width: 768px) {
+  .site-layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+}

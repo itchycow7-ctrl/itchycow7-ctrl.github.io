@@ -2,7 +2,7 @@
 layout: post
 title:  "【千葉県】市川市動植物園/パンチくん　2026"
 date:   2026-02-21 12:00:00 +0900
-categories: blog chiba
+categories: [blog, chiba]
 thumbnail: /assets/images/trips/20260221punch/blog/20260221-8.jpg
 ---
 
