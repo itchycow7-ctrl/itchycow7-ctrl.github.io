@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="home">
+
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -11,36 +12,31 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
   <ul class="post-list">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- assign date_format = site.minima.date_format | default: "%Y年%m月%d日" -%}
 
     {%- comment -%} ピン止め記事を先に表示 {%- endcomment -%}
     {%- for post in site.posts -%}
       {%- if post.pinned -%}
-      <li style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+      <li class="post-list-item">
+        <a href="{{ post.url | relative_url }}" class="post-list-link">
 
-        <!-- サムネイル（左） -->
-        {%- if post.thumbnail -%}
-        <img src="{{ post.thumbnail | relative_url }}"
-             alt="{{ post.title | escape }}"
-             style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
-        {%- else -%}
-        <div style="width: 80px; height: 80px; background: #ddd; flex-shrink: 0; border-radius: 4px;"></div>
-        {%- endif -%}
-
-        <!-- 右側：日付 + タイトル -->
-        <div>
-          <span class="post-meta" style="font-size: 0.8em;">
-            {{ post.date | date: date_format }}
-          </span><br>
-          <a class="post-link" href="{{ post.url | relative_url }}"
-             style="font-size: 0.95em; font-weight: bold;">
-            📌 {{ post.title | escape }}
-          </a>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
+          {%- if post.thumbnail -%}
+          <div class="post-thumbnail">
+            <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title | escape }}">
+          </div>
+          {%- else -%}
+          <div class="post-thumbnail post-thumbnail--placeholder"></div>
           {%- endif -%}
-        </div>
 
+          <div class="post-list-meta">
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <span class="post-link">📌 {{ post.title | escape }}</span>
+            {%- if site.show_excerpts -%}
+              <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 80 }}</p>
+            {%- endif -%}
+          </div>
+
+        </a>
       </li>
       {%- endif -%}
     {%- endfor -%}
@@ -48,36 +44,3 @@ layout: default
     {%- comment -%} ピン止め以外の記事を日付順に表示 {%- endcomment -%}
     {%- for post in site.posts -%}
       {%- unless post.pinned -%}
-      <li style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
-
-        <!-- サムネイル（左） -->
-        {%- if post.thumbnail -%}
-        <img src="{{ post.thumbnail | relative_url }}"
-             alt="{{ post.title | escape }}"
-             style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
-        {%- else -%}
-        <div style="width: 80px; height: 80px; background: #ddd; flex-shrink: 0; border-radius: 4px;"></div>
-        {%- endif -%}
-
-        <!-- 右側：日付 + タイトル -->
-        <div>
-          <span class="post-meta" style="font-size: 0.8em;">
-            {{ post.date | date: date_format }}
-          </span><br>
-          <a class="post-link" href="{{ post.url | relative_url }}"
-             style="font-size: 0.95em; font-weight: bold;">
-            {{ post.title | escape }}
-          </a>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </div>
-
-      </li>
-      {%- endunless -%}
-    {%- endfor -%}
-
-  </ul>
-  {%- endif -%}
-
-</div>
