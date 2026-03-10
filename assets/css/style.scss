@@ -23,6 +23,13 @@ img {
   pointer-events: none;
 }
 
+/* ===== ラッパーの幅を広げる ===== */
+.wrapper {
+  max-width: 1400px; /* デフォルト800px前後 → 広げる */
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
 /* ===== サイドバーレイアウト ===== */
 .site-layout {
   display: flex !important;
@@ -89,9 +96,4 @@ img {
   }
 }
 
-/* ===== ラッパーの幅を広げる ===== */
-.wrapper {
-  max-width: 1200px; /* デフォルト800px前後 → 広げる */
-  padding-right: 2rem;
-  padding-left: 2rem;
-}
+
