@@ -5,7 +5,7 @@
 
 /* ===== 記事内画像の最大幅 ===== */
 .post-content img {
-  max-width: 500px;
+  max-width: 100%;
   width: 100%;
   height: auto;
 }
@@ -35,7 +35,7 @@ img {
 .site-layout {
   display: flex !important;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 2rem;
 }
 
