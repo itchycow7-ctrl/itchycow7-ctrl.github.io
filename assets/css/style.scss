@@ -3,6 +3,16 @@
 
 @import "minima";
 
+/* ===== 横スクロール・左右ブレを防止 ===== */
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 /* ===== 記事内画像の最大幅 ===== */
 .post-content img {
   max-width: 500px;
@@ -163,7 +173,7 @@ img {
 @media (max-width: 768px) {
   .post-list-link {
     flex-direction: row;
-    align-items: flex-start
+    align-items: flex-start;
   }
 
   .post-thumbnail img,
@@ -174,7 +184,7 @@ img {
   }
 
   .post-link {
-    font-size: 10px;
+    font-size: 0.95rem;
   }
 }
 
