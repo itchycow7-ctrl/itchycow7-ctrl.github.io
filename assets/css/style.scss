@@ -5,7 +5,7 @@
 
 /* ===== 記事内画像の最大幅 ===== */
 .post-content img {
-  max-width: 100%;
+  max-width: 500px;
   width: 100%;
   height: auto;
 }
@@ -169,4 +169,13 @@ img {
     width: 100%;
     height: auto;
   }
+}
+
+/* ===== 記事ページのサムネイル（横幅いっぱい） ===== */
+.post-hero-image img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
 }

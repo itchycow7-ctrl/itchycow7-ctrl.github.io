@@ -3,15 +3,16 @@ layout: default
 ---
 
 <style>
-  .post-thumbnail {
+  .post-hero-image {
     margin-bottom: 1.5rem;
   }
-  .post-thumbnail img {
+  .post-hero-image img {
     max-width: 100%;
+    width: 100%;
     height: auto;
     display: block;
+    border-radius: 4px;
   }
-
 </style>
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
@@ -33,12 +34,8 @@ layout: default
   </header>
 
   {%- if page.thumbnail %}
-  <div class="post-thumbnail">
-    <img
-      src="{{ page.thumbnail | relative_url }}"
-      alt="{{ page.title | escape }}"
-      loading="lazy"
-    >
+  <div class="post-hero-image">
+    <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title | escape }}">
   </div>
   {%- endif %}
 
