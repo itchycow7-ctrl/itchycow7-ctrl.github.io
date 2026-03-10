@@ -99,6 +99,64 @@ img {
 
 /* ===== 記事一覧のタイトル文字を大きくする ===== */
 .post-list .post-link {
-  font-size: 1.3rem; /* デフォルトは約 1.0〜1.1rem */
+  font-size: 1.5rem; /* デフォルトは約 1.0〜1.1rem */
   font-weight: bold;
+}
+
+/* ===== カテゴリページの記事一覧（表紙と統一） ===== */
+.post-list-item {
+  list-style: none;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 1.5rem;
+}
+
+.post-list-link {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.post-list-link:hover .post-link {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+.post-thumbnail img {
+  width: 160px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.post-list-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.post-link {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #333;
+}
+
+/* スマホ対応 */
+@media (max-width: 768px) {
+  .post-list-link {
+    flex-direction: column;
+  }
+
+  .post-thumbnail img {
+    width: 100%;
+    height: auto;
+  }
 }

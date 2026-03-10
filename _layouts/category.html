@@ -11,9 +11,23 @@ layout: default
   {% if posts_in_category.size > 0 %}
     <ul class="post-list">
       {% for post in posts_in_category %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</span>
+        <li class="post-list-item">
+          <a href="{{ post.url | relative_url }}" class="post-list-link">
+
+            {% if post.thumbnail %}
+              <div class="post-thumbnail">
+                <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+              </div>
+            {% endif %}
+
+            <div class="post-list-meta">
+              <span class="post-meta">
+                {{ post.date | date: "%Y年%m月%d日" }}
+              </span>
+              <span class="post-link">{{ post.title }}</span>
+            </div>
+
+          </a>
         </li>
       {% endfor %}
     </ul>
