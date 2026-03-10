@@ -3,13 +3,14 @@
 
 @import "minima";
 
+/* ===== 記事内画像の最大幅 ===== */
 .post-content img {
   max-width: 500px;
   width: 100%;
   height: auto;
 }
 
-// ハンバーガーメニューボタンを非表示
+/* ハンバーガーメニューボタンを非表示 */
 .nav-trigger,
 label[for="nav-trigger"],
 .menu-icon {
@@ -25,7 +26,7 @@ img {
 
 /* ===== ラッパーの幅を広げる ===== */
 .wrapper {
-  max-width: 1200px; /* デフォルト800px前後 → 広げる */
+  max-width: 1200px;
   padding-right: 2rem;
   padding-left: 2rem;
 }
@@ -34,14 +35,14 @@ img {
 .site-layout {
   display: flex !important;
   align-items: flex-start;
-  justify-content: center; /* ← 追加：記事リストとサイドバーを両端に広げる */
+  justify-content: center;
   gap: 2rem;
 }
 
 .main-content {
   flex: 1;
-  max-width: 760px; /* ← 記事一覧の最大幅を制限して中央に */
-  min-width: 0; /* はみ出し防止 */
+  max-width: 760px;
+  min-width: 0;
 }
 
 .sidebar {
@@ -83,7 +84,7 @@ img {
 
 .prefecture-list {
   max-height: 400px;
-  overflow-y: auto; /* 長い場合はスクロール */
+  overflow-y: auto;
 }
 
 /* スマホ対応：縦並びに切り替え */
@@ -99,11 +100,11 @@ img {
 
 /* ===== 記事一覧のタイトル文字を大きくする ===== */
 .post-list .post-link {
-  font-size: 1.5rem; /* デフォルトは約 1.0〜1.1rem */
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
-/* ===== カテゴリページの記事一覧（表紙と統一） ===== */
+/* ===== カテゴリページ・表紙の記事一覧（共通スタイル） ===== */
 .post-list-item {
   list-style: none;
   margin-bottom: 1.5rem;
@@ -149,6 +150,15 @@ img {
   color: #333;
 }
 
+/* サムネイルなし記事のプレースホルダー */
+.post-thumbnail--placeholder {
+  width: 160px;
+  height: 110px;
+  background: #ddd;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
 /* スマホ対応 */
 @media (max-width: 768px) {
   .post-list-link {
@@ -159,13 +169,4 @@ img {
     width: 100%;
     height: auto;
   }
-}
-
-/* サムネイルなし記事のプレースホルダー */
-.post-thumbnail--placeholder {
-  width: 160px;
-  height: 110px;
-  background: #ddd;
-  border-radius: 4px;
-  flex-shrink: 0;
 }

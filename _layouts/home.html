@@ -44,3 +44,31 @@ layout: default
     {%- comment -%} ピン止め以外の記事を日付順に表示 {%- endcomment -%}
     {%- for post in site.posts -%}
       {%- unless post.pinned -%}
+      <li class="post-list-item">
+        <a href="{{ post.url | relative_url }}" class="post-list-link">
+
+          {%- if post.thumbnail -%}
+          <div class="post-thumbnail">
+            <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title | escape }}">
+          </div>
+          {%- else -%}
+          <div class="post-thumbnail post-thumbnail--placeholder"></div>
+          {%- endif -%}
+
+          <div class="post-list-meta">
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <span class="post-link">{{ post.title | escape }}</span>
+            {%- if site.show_excerpts -%}
+              <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 80 }}</p>
+            {%- endif -%}
+          </div>
+
+        </a>
+      </li>
+      {%- endunless -%}
+    {%- endfor -%}
+
+  </ul>
+  {%- endif -%}
+
+</div>
