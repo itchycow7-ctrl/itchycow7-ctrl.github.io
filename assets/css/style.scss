@@ -27,6 +27,7 @@ img {
 .site-layout {
   display: flex !important;
   align-items: flex-start;
+  justify-content: space-between; /* ← 追加：記事リストとサイドバーを両端に広げる */
   gap: 2rem;
 }
 
@@ -86,4 +87,11 @@ img {
   .sidebar {
     width: 100%;
   }
+}
+
+/* ===== ラッパーの幅を広げる ===== */
+.wrapper {
+  max-width: 1200px; /* デフォルト800px前後 → 広げる */
+  padding-right: 2rem;
+  padding-left: 2rem;
 }
