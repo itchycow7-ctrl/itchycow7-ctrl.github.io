@@ -143,10 +143,25 @@ img {
   text-decoration: underline;
 }
 
-.post-thumbnail img {
+/* ===== サムネイル（aspect-ratio で縦横比を統一） ===== */
+.post-thumbnail {
   width: 160px;
-  height: 110px;
+  flex-shrink: 0;
+}
+
+.post-thumbnail img {
+  width: 100%;
+  aspect-ratio: 16 / 11;
   object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+/* サムネイルなし記事のプレースホルダー */
+.post-thumbnail--placeholder {
+  width: 160px;
+  aspect-ratio: 16 / 11;
+  background: #ddd;
   border-radius: 4px;
   flex-shrink: 0;
 }
@@ -168,15 +183,6 @@ img {
   color: #333;
 }
 
-/* サムネイルなし記事のプレースホルダー */
-.post-thumbnail--placeholder {
-  width: 160px;
-  height: 110px;
-  background: #ddd;
-  border-radius: 4px;
-  flex-shrink: 0;
-}
-
 /* スマホ対応 */
 @media (max-width: 768px) {
   .post-list-link {
@@ -184,11 +190,12 @@ img {
     align-items: flex-start;
   }
 
-  .post-thumbnail img,
+  .post-thumbnail {
+    width: 120px;
+  }
+
   .post-thumbnail--placeholder {
     width: 120px;
-    height: 82px;
-    flex-shrink: 0;
   }
 
   .post-list .post-link {
