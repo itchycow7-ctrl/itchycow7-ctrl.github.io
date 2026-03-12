@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【秋田県】【モデルルート】2泊3日　横手のかまくら/湯沢市犬っこまつり/なはまげ柴灯まつり"
+title:  "【秋田県】【モデルルート】2泊3日　2月の横手/湯沢/男鹿　①"
 date:   2026-02-15 12:02:00 +0900
 categories: [route, akita]
 thumbnail: /assets/images/trips/20260214akita/route/20260214-route1.jpg
@@ -24,12 +24,11 @@ thumbnail: /assets/images/trips/20260214akita/route/20260214-route1.jpg
 
 ## タイムライン
 
-### 12:00｜代々木上原駅（スタート地点）
+### 7:45｜羽田空港（スタート地点）
 
-**📍 場所**: 代々木上原駅（東京都渋谷区）<br>  
-**🚃 アクセス**: 小田急線・東京メトロ千代田線<br>
+<img src="/assets/images/trips/20260221punch/route/ticket.jpg" alt="羽田空港ANA401" style="width: 90% !important; height: auto !important;">
 
-代々木上原駅はこのルートの出発点です。東京メトロ千代田線は小田急線・JR常磐線との乗り入れ直通運転をしているため、小田急線ユーザーや千代田線までのアクセスが容易な人にはおすすめです。
+今回は羽田空港から空路で秋田県まで行くルートです。朝一番のANAの便で向かいます（ANA401）。
 
 ---
 
