@@ -174,6 +174,7 @@ thumbnail: /assets/images/trips/20260215-1akita/route/thumbnail.jpg
 
 ## ルートまとめ
 
+
 | 時間 | 場所 | 移動手段 | 移動時間 |
 |---|---|---|---|
 | 7:30 | JR奥羽本線 秋田駅（スタート） | ・ | ・ |
@@ -193,6 +194,10 @@ thumbnail: /assets/images/trips/20260215-1akita/route/thumbnail.jpg
 | 7:50 | 秋田駅西口バス停 | ・ | ・ |
 | 8:30 | 秋田空港 | バス | 約40分 |
 | 10:45 | 羽田空港 | 飛行機 | 約1時間 |
+
+
+
+
 <br>
 
 ---
