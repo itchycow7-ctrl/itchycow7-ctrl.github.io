@@ -14,7 +14,8 @@ thumbnail: /assets/images/trips/20260308yumemizoo/blog/20260308-16.jpg
 
 [夢見ヶ崎動物公園][yumemizoo]<br>
 
-アクセス方法は、JR南武線 鹿島田駅から徒歩20分、JR横須賀線・湘南新宿ライン 新川崎駅から徒歩15分、<br>
+アクセス方法は、JR南武線 鹿島田駅から徒歩20分、<br>
+JR横須賀線・湘南新宿ライン 新川崎駅から徒歩15分、<br>
 もしくは川崎駅から近くまでバスで行くことも可能です。
 
 今回は、動物公園の南側（川崎市立夢見ヶ崎小学校側）から、階段を登って入園しました。<br>
@@ -60,7 +61,7 @@ thumbnail: /assets/images/trips/20260308yumemizoo/blog/20260308-16.jpg
 
 <br>
 レッサーパンダは、以前マスコミにも取り上げられたことがあるそうです。<br>
-閉園時間間近でそろそろ退勤時間だから、少しソワソワしているようにも見えました。
+閉園時間間近でそろそろ退勤時間だからか、少しソワソワしているようにも見えました。
 <div style="display: flex; gap: 9px;">
 <img src="/assets/images/trips/20260308yumemizoo/blog/20260308-12.jpg" alt="レッサーパンダ" style="width: 50% !important; height: auto !important;" loading="lazy">
 <img src="/assets/images/trips/20260308yumemizoo/blog/20260308-13.jpg" alt="レッサーパンダ絵" style="width: 50% !important; height: auto !important;" loading="lazy">
@@ -68,7 +69,7 @@ thumbnail: /assets/images/trips/20260308yumemizoo/blog/20260308-16.jpg
 
 <br>
 鮮やかなピンク色のフラミンゴ。<br>
-いつ見ても全体重をこの細い足で、時には1本のみで支えているのに感心します。
+いつ見ても全体重をこの細い足で、時には1本のみで支えているのに感心してしまいます。
 <div style="display: flex; gap: 9px;">
 <img src="/assets/images/trips/20260308yumemizoo/blog/20260308-14.jpg" alt="フラミンゴ" style="width: 50% !important; height: auto !important;" loading="lazy">
 <img src="/assets/images/trips/20260308yumemizoo/blog/20260308-15.jpg" alt="フラミンゴ絵" style="width: 50% !important; height: auto !important;" loading="lazy">
