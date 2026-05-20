@@ -48,7 +48,8 @@ thumbnail: /assets/images/trips/20260214akita/blog/20260214-16.jpg
 <img src="/assets/images/trips/20260214akita/blog/20260214-6.jpg" alt="ミニかまくら作り体験3" style="width: 90% !important; height: auto !important;" loading="lazy">
 
 ちなみに今回使ったのはこちらの「無限ハンギョドン製造機」。<br>
-<img src="/assets/images/trips/20260214akita/blog/20260214-7.jpg" alt="無限ハンギョドン製造機" style="width: 90% !important; height: auto !important;" loading="lazy">
+<img src="/assets/images/trips/20260214akita/blog/20260214-7.jpg" alt="無限ハンギョドン製造機" style="width: 90% !important; height: auto !important;" loading="lazy"><br>
+[無限ハンギョドン製造機][hangyodon]
 
 心ゆくまでかまくら作りを体験したら、次のアクティビティに移動。<br>
 今回は駅から徒歩２分の横手駅前温泉ゆうゆうプラザで昼食休憩をとります。（12:00pm）<br>
@@ -152,3 +153,4 @@ JR奥羽本線で先ほどとは反対方向に乗り、秋田駅まで1時間�
 
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
 [yokotewarp]: https://www.city.yokote.lg.jp/kanko/1001533/1011108/1011109.html
+[hangyodon]: https://amzn.to/4wF0lLX
