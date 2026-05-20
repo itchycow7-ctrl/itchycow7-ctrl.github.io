@@ -274,3 +274,10 @@ img.ad-image {
   height: auto;
   pointer-events: auto !important;
 }
+
+@media (max-width: 768px) {
+  .site-title img {
+    height: 60px !important;
+    max-width: 80px;
+  }
+}
