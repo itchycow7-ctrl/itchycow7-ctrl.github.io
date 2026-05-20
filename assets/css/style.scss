@@ -222,7 +222,7 @@ img {
 
 .header-ad {
   margin-left: auto;
-  margin-right: 32px;
+  margin-right: 2rem;  /* wrapperのpadding-rightと同じ値 */
   flex-shrink: 0;
 }
 
