@@ -253,3 +253,21 @@ img.ad-image {
   width: 100%;
   height: auto;
 }
+
+.sidebar-column {
+  width: 220px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* sidebar-columnを使うのでsidebarのwidthを上書き */
+.sidebar-column .sidebar {
+  width: 100%;
+}
+
+.sidebar-column .ad-image {
+  width: 100%;
+  height: auto;
+  pointer-events: auto !important;
+}
