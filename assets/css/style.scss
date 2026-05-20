@@ -220,6 +220,11 @@ img.ad-image {
   pointer-events: auto !important;
 }
 
+/* ===== PC用ロゴサイズ ===== */
+.site-title img {
+  height: 100px;
+}
+
 /* ===== スマホ対応 ===== */
 @media (max-width: 768px) {
   .site-layout {
@@ -261,14 +266,13 @@ img.ad-image {
 
   img.ad-image {
     width: 100%;
-    max-width: 468px;
     height: auto !important;
     pointer-events: auto !important;
     -webkit-user-drag: auto !important;
   }
 
   .site-title img {
-    height: 60px !important;
+    height: 60px;
     max-width: 80px;
   }
 }
