@@ -211,3 +211,29 @@ img {
   border-radius: 4px;
   margin-bottom: 1.5rem;
 }
+
+/* ===== ヘッダー広告の位置調整 ===== */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.site-header .wrapper > div {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end; /* 右寄せ */
+  padding-right: 0;          /* サイドバー右端に合わせる */
+}
+
+.site-header .wrapper > div img[width="468"] {
+  width: 220px;   /* サイドバー幅に合わせる */
+  height: auto;
+  pointer-events: auto; /* 広告リンクを有効にする */
+}
+
+img.ad-image {
+  pointer-events: auto !important;
+  -webkit-user-drag: auto !important;
+}
