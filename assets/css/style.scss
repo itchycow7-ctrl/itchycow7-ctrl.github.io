@@ -221,8 +221,15 @@ img.ad-image {
 }
 
 /* ===== PC用ロゴサイズ ===== */
-.site-title img {
-  height: 100px !important;
+.site-logo {
+  height: 100px;
+  width: auto;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 
 /* ===== スマホ対応 ===== */
@@ -259,9 +266,22 @@ img.ad-image {
     font-size: 0.95rem;
   }
 
+  .header-top {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-logo {
+    height: auto !important;
+    width: 100%;
+    max-width: 200px;
+  }
+
   .header-ad {
     display: flex;
     min-width: 0;
+    width: 100%;
+    margin-top: 8px;
   }
 
   img.ad-image {
@@ -269,10 +289,5 @@ img.ad-image {
     height: auto !important;
     pointer-events: auto !important;
     -webkit-user-drag: auto !important;
-  }
-
-  .site-title img {
-    height: 60px;
-    max-width: 80px;
   }
 }
