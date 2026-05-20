@@ -213,7 +213,7 @@ img {
 }
 
 /* ===== ヘッダー広告の位置調整 ===== */
-.header-wrapper {
+.site-header .wrapper {
   display: flex;
   align-items: center;
   padding-top: 10px;
@@ -225,18 +225,26 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  min-width: 0;
 }
 
 img.ad-image {
-  width: 468px;
-  height: 60px;
+  width: 100%;
+  max-width: 468px;
+  height: auto;
   pointer-events: auto !important;
   -webkit-user-drag: auto !important;
 }
 
-/* スマホでは広告を非表示 */
+/* スマホでは広告をロゴに合わせて縮小 */
 @media (max-width: 768px) {
   .header-ad {
-    display: none;
+    display: flex;
+    min-width: 0;
+  }
+
+  img.ad-image {
+    width: 100%;
+    height: auto;
   }
 }
