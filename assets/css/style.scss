@@ -220,16 +220,17 @@ img {
   padding-bottom: 10px;
 }
 
-.site-header .wrapper > div {
-  flex: 1;
-  display: flex;
-  justify-content: flex-end;
-  padding-right: 0;
+.header-ad {
+  margin-left: auto;
+  margin-right: 0;
+  width: 468px;
+  flex-shrink: 0;
 }
 
 img.ad-image {
   width: 468px;
   height: 60px;
+  display: block;
   pointer-events: auto !important;
   -webkit-user-drag: auto !important;
 }
