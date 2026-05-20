@@ -213,31 +213,27 @@ img {
 }
 
 /* ===== ヘッダー広告の位置調整 ===== */
-.header-ad {
-  position: absolute;
-  right: calc((100vw - 1200px) / 2 + 2rem);
-  top: 50%;
-  transform: translateY(-50%);
+.sidebar-wrapper {
+  width: 220px;
   flex-shrink: 0;
-}
-
-.site-header .wrapper {
-  position: relative;
   display: flex;
-  align-items: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  flex-direction: column;
+  gap: 1rem;
 }
 
-img.ad-image {
-  width: 468px;
-  height: 60px;
-  display: block;
+.header-ad {
+  width: 100%;
+  overflow: hidden;
+}
+
+.header-ad img.ad-image {
+  width: 100%;
+  height: auto;
   pointer-events: auto !important;
   -webkit-user-drag: auto !important;
 }
 
-img.ad-image {
-  pointer-events: auto !important;
-  -webkit-user-drag: auto !important;
+/* sidebar自体のwidthをsidebar-wrapperに移譲 */
+.sidebar {
+  width: 100%;
 }
