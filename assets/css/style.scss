@@ -223,14 +223,15 @@ img {
 .site-header .wrapper > div {
   flex: 1;
   display: flex;
-  justify-content: flex-end; /* 右寄せ */
-  padding-right: 0;          /* サイドバー右端に合わせる */
+  justify-content: flex-end;
+  padding-right: 0;
 }
 
-.site-header .wrapper > div img[width="468"] {
-  width: 220px;   /* サイドバー幅に合わせる */
-  height: auto;
-  pointer-events: auto; /* 広告リンクを有効にする */
+img.ad-image {
+  width: 468px;
+  height: 60px;
+  pointer-events: auto !important;
+  -webkit-user-drag: auto !important;
 }
 
 img.ad-image {
