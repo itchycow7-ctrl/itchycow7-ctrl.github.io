@@ -134,4 +134,4 @@ thumbnail: /assets/images/trips/20260215-2akita/blog/20260215-15.jpg
 [shikuchouson]: https://itchycow7-ctrl.github.io/map-app/
 [namahagematsuri]: https://oganavi.com/sedo/
 [namahagego]: https://www.jreast.co.jp/sendai/eventtrain/
-[kkdaynamahage]: https://www.kkday.com/ja/product/547213?srsltid=AfmBOoqDKih0VOZDOM_txiSE7AYhrPnNP57pbuwWzI1sO2Na6p5Wj873
+[kkdaynamahage]: https://www.kkday.com/ja/product/547213?t=1779781316&cid=25132&ud1=Blog&ud2=Akita
