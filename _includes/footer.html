@@ -3,7 +3,7 @@
 
     <div style="text-align: center; padding: 16px 0;">
       <a href="{{ "/" | relative_url }}">
-        <img src="{{ "/assets/images/logo.png" | relative_url }}" height="150px" alt="{{ site.title }}">
+        <img src="{{ "/assets/images/logo.png" | relative_url }}" height="48px" alt="{{ site.title | escape }}">
       </a>
     </div>
 
@@ -24,4 +24,10 @@
     </div>
 
   </div>
+
+  <nav class="footer-links">
+    <a href="/about/">運営者情報</a>
+    <a href="/privacy-policy/">プライバシーポリシー</a>
+  </nav>
+
 </footer>
