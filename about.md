@@ -2,6 +2,7 @@
 layout: page
 title: "運営者情報"
 permalink: /about/
+hide_title: true
 ---
 
 ## 運営者情報

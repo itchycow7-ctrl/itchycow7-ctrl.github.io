@@ -2,6 +2,7 @@
 layout: page
 title: "プライバシーポリシー"
 permalink: /privacy-policy/
+hide_title: true
 ---
 
 ## プライバシーポリシー
